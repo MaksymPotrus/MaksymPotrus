@@ -1,124 +1,104 @@
 # Maksym Potrus - Automation QA Engineer
 
-![Profile Picture](profile_picture.jpg)
+![Profile Picture](https://your-image-url.com)
+
+> "Automating the world, one test at a time."
+
+## About Me
+
+Hello there! I'm Maksym Potrus, an attentive Automation QA Engineer based in RouT. I'm passionate about quality assurance and take pride in developing well-structured automated scripts for UI/API testing. My primary focus is on using Cypress to deliver robust and efficient testing solutions. With a strong command of various programming languages and tools, I enjoy tackling challenging problems and delivering reliable results.
 
 ## Contact Information
 
-- Email: raijenmax@gmail.com
-- Location: RouT
-
-## Summary
-
-I am an attentive Automation QA Engineer with core experience in Cypress. My focus is on developing well-structured automated scripts for UI/APIs. I have experience working in teams and proficiency in languages such as Java, JavaScript, HTML, CSS, C++, and MySQL. I am responsible, stress-resistant, and motivated, with strong problem-solving skills.
+- 📧 Email: raijenmax@gmail.com
 
 ## Work Experience
 
-### Automation QA Engineer - Pecode (Dec 2018 - Present)
+### Automation QA Engineer at Pecode
+#### Dec 2018 - Present
 
-- Collaborated with software engineers on performance testing strategies and results.
-- Wrote reusable and efficient code for automation tests.
-- Worked with the QA team and colleagues to define the automation process and strategy.
+As an Automation QA Engineer at Pecode, I've been an essential part of the team, ensuring the quality and performance of various projects. My responsibilities include:
 
-#### Projects
+- Collaborating with software engineers on performance testing strategies and results.
+- Writing reusable and efficient code for automation tests.
+- Working closely with the QA team and colleagues to define the automation process and strategy.
 
-##### Project: Under NDA
+### Projects
 
-- Description: Web solution aimed at improving modern enterprise.
-- Team Size: 2 team members
-- Tools and Technologies: Cypress
+#### Project: Under NDA
 
-Responsibilities:
+- **Description:** Web solution aimed at improving modern enterprises.
+- **Team Size:** 2 team members
+- **Tools and Technologies:** Cypress
 
-- Set up the test framework.
-- Wrote end-to-end tests.
-- Maintained close interaction with QA engineers.
-- Conducted test case reviews.
+   Responsibilities:
+   - Setting up the test framework.
+   - Writing end-to-end tests.
+   - Maintaining close interaction with QA engineers.
+   - Conducting test case reviews.
 
-##### Project: FNZ Group
+#### Project: FNZ Group
 
-- Description: Data platform aimed at making investment decisions.
-- Team Size: Not specified
-- Tools and Technologies: Cypress
+- **Description:** Data platform aimed at making investment decisions.
+- **Tools and Technologies:** Cypress
 
-Responsibilities:
+   Responsibilities:
+   - Setting up the automation test framework from scratch.
+   - Fixing tests and writing bug reports.
+   - Actively participating in teamwork.
 
-- Set up the automation test framework from scratch.
-- Fixed tests and wrote bug reports.
-- Actively participated in teamwork.
+#### Hackathon - Star Track 2010
 
-### Hackathon - Star Track 2010
+- **Description:** Application with the theme "Workshop of the Planets."
+- **Project Team Size:** 6 team members
+- **Tools and Technologies:** C#, MySQL, Unity
 
-- Description: Application with the theme "Workshop of the Planets."
-- Project Team Size: 6 team members
-- Tools and Technologies: C#, MySQL, Unity
+#### NASA International Space Apps Challenge 2019
 
-### NASA International Space Apps Challenge 2019
+- **Description:** Application with the theme "Workshop of the Planets."
+- **Project Team Size:** 8 team members
+- **Tools and Technologies:** C++, QML, UML Diagram, Figma
 
-- Description: Application with the theme "Workshop of the Planets."
-- Project Team Size: 8 team members
-- Tools and Technologies: C++, QML, UML Diagram, Figma
+#### Qremind
 
-### Qremind
+- **Description:** Application for managing cases and assignments, allowing users to create to-do lists for the day, week, or month.
+- **Project Team Size:** 3 team members
+- **Tools and Technologies:** C++, MSOL, OMI, Python, HTML, Amazon Web Services, Figma, UML Diagram
 
-- Description: Application for managing cases and assignments, allowing users to create to-do lists for the day, week, or month.
-- Project Team Size: 3 team members
-- Tools and Technologies: C++, MSOL, OMI, Python, HTML, Amazon Web Services, Figma, UML Diagram
+#### Noosphere startup "Infusion"
 
-### Noosphere startup "Infusion"
+- **Description:** Mobile application for controlling the infusion process.
+- **Project Team Size:** 7 team members
+- **Tools and Technologies:** Python, PyCharm, PostgreSQL
 
-- Description: Mobile application for controlling the infusion process.
-- Project Team Size: 7 team members
-- Tools and Technologies: Python, PyCharm, PostgreSQL
+#### Noosphere startup "WheelKeep"
 
-### Noosphere startup "WheelKeep"
-
-- Description: Mobile application for bike theft protection.
-- Project Team Size: 12 team members
-- Tools and Technologies: Dart, VSCode
+- **Description:** Mobile application for bike theft protection.
+- **Project Team Size:** 12 team members
+- **Tools and Technologies:** Dart, VSCode
 
 ## Education
 
-- Oles Honchar Dnipro National University, Rocket-and-Space Engineering College, Dnipro, Ukraine
+**Oles Honchar Dnipro National University, Rocket-and-Space Engineering College, Dnipro, Ukraine**
 
 ## Tech Stack
 
-### Programming Languages
+- **Programming Languages:** Java, TypeScript, Cypress, Cucumber, Docker, Jenkins, CI/CD pipeline, Bitbucket, GitHub Actions, JavaScript, C#, C++, Assembler, QML, Dart, Python (Flask), API testing with Postman, Mocha, Chai, JMeter.
 
-- Java
-- TypeScript
-- Cypress
-- Cucumber
-- Docker
-- Jenkins
-- CI/CD pipeline
-- Bitbucket
-- GitHub Actions
-- JavaScript
-- C#
-- C++
-- Assembler
-- QML
-- Dart
-- Python (Flask)
-- API testing with Postman
-- Mocha
-- Chai
-- JMeter
-
-### Operating Systems
+## Operating Systems
 
 - Microsoft Windows XP/7/10/11
 - Ubuntu Linux
 - Manjaro Linux
 - macOS
 
-### RDBMS
+## RDBMS
 
 - SQL Server
 - MySQL
 - PostgreSQL
 
-### Development Tools
+## Development Tools
 
 - Visual Studio
 - Amazon Web Services
@@ -129,11 +109,9 @@ Responsibilities:
 - PHPMyAdmin
 - MySQL Workbench
 
-### Methodologies
+## Methodologies
 
-- Agile
-- Scrum
-- Kanban
+- Agile, Scrum, Kanban
 - Waterfall
 
 ## Personal Skills
@@ -148,6 +126,6 @@ Responsibilities:
 - English: Advanced
 - Ukrainian: Native
 
----
+## Let's Connect!
 
-*Note: This is a sample GitHub `README.md` about you, Maksym Potrus, which you can use to showcase your skills and experiences on your GitHub profile. Feel free to modify it according to your preferences and add any other information you find relevant.*
+Feel free to reach out to me via email at raijenmax@gmail.com. I'm open to new opportunities, collaborations, and sharing knowledge with fellow professionals. Let's automate and improve together! 🤝
