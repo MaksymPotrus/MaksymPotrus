@@ -1,6 +1,7 @@
 # Maksym Potrus - Automation QA Engineer
 
-[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://youtu.be/8N91bAgxXWE)
+[![asciicast](https://asciinema.org/a/113463.png)](https://youtu.be/8N91bAgxXWE)
+
 
 > "Automating the world, one test at a time."
 
