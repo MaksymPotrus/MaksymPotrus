@@ -1,6 +1,6 @@
 # Maksym Potrus - Automation QA Engineer
 
-![Profile Picture](https://your-image-url.com)
+![Profile Picture](https://youtu.be/8N91bAgxXWE)
 
 > "Automating the world, one test at a time."
 
