@@ -85,47 +85,6 @@ As an Automation QA Engineer at Pecode, I've been an essential part of the team,
 
 - **Programming Languages:** Java, TypeScript, Cypress, Cucumber, Docker, Jenkins, CI/CD pipeline, Bitbucket, GitHub Actions, JavaScript, C#, C++, Assembler, QML, Dart, Python (Flask), API testing with Postman, Mocha, Chai, JMeter.
 
-## Operating Systems
-
-- Microsoft Windows XP/7/10/11
-- Ubuntu Linux
-- Manjaro Linux
-- macOS
-
-## RDBMS
-
-- SQL Server
-- MySQL
-- PostgreSQL
-
-## Development Tools
-
-- Visual Studio
-- Amazon Web Services
-- PyCharm
-- VS Code
-- GitHub
-- GitLab
-- PHPMyAdmin
-- MySQL Workbench
-
-## Methodologies
-
-- Agile, Scrum, Kanban
-- Waterfall
-
-## Personal Skills
-
-- Reliable and professional
-- Self-organized
-- Motivated
-- Excellent problem-solving skills
-
-## Languages
-
-- English: Advanced
-- Ukrainian: Native
-
 ## Let's Connect!
 
 Feel free to reach out to me via email at raijenmax@gmail.com. I'm open to new opportunities, collaborations, and sharing knowledge with fellow professionals. Let's automate and improve together! 🤝
