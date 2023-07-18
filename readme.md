@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Max
 
 ![Cover Image](https://your-image-url.com/cover-image.jpg)  <!-- Replace with your own cover image or GIF -->
 
