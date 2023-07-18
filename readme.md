@@ -1,6 +1,5 @@
 # Maksym Potrus - Automation QA Engineer
 
-[![asciicast](https://asciinema.org/a/113463.png)](https://youtu.be/8N91bAgxXWE)
 [![Watch the video](https://img.youtube.com/vi/8N91bAgxXWE/hqdefault.jpg)](https://www.youtube.com/embed/8N91bAgxXWE)
 
 
