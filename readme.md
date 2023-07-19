@@ -45,36 +45,6 @@ Tools and Technologies: Cypress
 - Fixed tests and wrote bug reports.
 - Actively participated in teamwork.
 
-### Hackathon - Star Track 2010 | Team Size: 6
-
-Description: Application with the theme "Workshop of the Planets."
-
-Tools and Technologies: C#, MySQL, Unity
-
-### NASA International Space Apps Challenge 2019 | Team Size: 8
-
-Description: Application with the theme "Workshop of the Planets."
-
-Tools and Technologies: C++, QML, UML Diagram, Figma
-
-### Qremind | Team Size: 3
-
-Description: Application for managing cases and assignments, allowing users to create to-do lists for the day, week, or month.
-
-Tools and Technologies: C++, MSOL, OMI, Python, HTML, Amazon Web Services, Figma, UML Diagram
-
-### Noosphere startup "Infusion" | Team Size: 7
-
-Description: Mobile application for controlling the infusion process.
-
-Tools and Technologies: Python, PyCharm, PostgreSQL
-
-### Noosphere startup "WheelKeep" | Team Size: 12
-
-Description: Mobile application for bike theft protection.
-
-Tools and Technologies: Dart, VSCode
-
 ## 🌍 Languages
 
 - English: Advanced
