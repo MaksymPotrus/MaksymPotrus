@@ -4,7 +4,7 @@ Hello there! 👋 I'm Maksym Potrus, an attentive and passionate Automation QA E
 
 ## 🔧 Tech Stack
 
-- Programming Languages: Java, TypeScript, Cypress, Cucumber, Docker, Jenkins, CI/CD pipeline, Bitbucket, GitHub Actions, JavaScript, C#, C++, Assembler, QML, Dart, Python (Flask), API testing with Postman, Mocha, Chai, JMeter.
+- Programming Languages: TypeScript, Cypress, Cucumber, Docker, Jenkins, CI/CD pipeline, Bitbucket, GitHub Actions, JavaScript, C#, C++, Assembler, QML, Dart, Python (Flask), API testing with Postman, Mocha, Chai, JMeter.
 - Operating Systems: Microsoft Windows XP/7/10/11, Ubuntu Linux, Manjaro Linux, macOS.
 - RDBMS: SQL Server, MySQL, PostgreSQL.
 - Development Tools: Visual Studio, Amazon Web Services, PyCharm, VS Code, GitHub, GitLab, PHPMyAdmin, MySQL Workbench.
